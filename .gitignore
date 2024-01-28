@@ -1,0 +1,9 @@
+/.quarto/
+/blogs/*
+/blogs
+/announcements
+/announcements/*
+/announcements.qmd
+/about.qmd
+/blogs.qmd
+/styles.css

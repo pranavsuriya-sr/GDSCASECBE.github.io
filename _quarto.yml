@@ -1,0 +1,23 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  title: GDSC CBE
+  favicon: gdsc.png
+  twitter-card: true
+  navbar:
+    right:
+      - href: about.qmd
+        text: About
+      - href: announcement.qmd
+        text: Updates
+      - href: projects.qmd
+        text: Projects
+
+format:
+  html:
+    theme:
+      light: cosmo
+      dark: [cosmo, dark-theme.scss]
+    css: styles.css
