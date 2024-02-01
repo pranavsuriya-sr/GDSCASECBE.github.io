@@ -2,198 +2,211 @@
 <html lang="en">
 
 <head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <style>
-        @import url('https://fonts.googleapis.com/css2?family=Roboto+Mono&display=swap');
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <style>
+    @import url('https://fonts.googleapis.com/css2?family=Roboto+Mono&display=swap');
 
-        html {
-            height: 100%;
+    html {
+      height: 100%;
+    }
+
+    body {
+      font-family: 'Roboto Mono', monospace;
+      overflow: hidden;
+      width: 100%;
+      height: 300px;
+      text-align: center;
+      margin: 0;
+      background-color: black;
+      color: #a6a6a6;
+    }
+
+    .container {
+      padding-top: 2rem;
+      position: relative;
+      top: 2rem;
+    }
+
+    a {
+      text-decoration: none;
+    }
+
+    .container h1 {
+      color: white;
+      font-size: 190%;
+      overflow: hidden;
+      border-right: .1em solid #a6a6a6;
+      white-space: nowrap;
+      margin: 0 auto;
+      letter-spacing: .15em;
+      animation: typing 3.5s steps(10, end) forwards, blink-caret .75s step-end infinite;
+    }
+
+    @media (min-width: 1170px) {
+      @keyframes typing {
+        from {
+          width: 0
         }
 
-        body {
-            font-family: 'Roboto Mono', monospace;
-            overflow: hidden;
-            width: 100%;
-            height: 300px;
-            text-align: center;
-            margin: 0;
-            background-color: black;
-            color: #a6a6a6;
+        to {
+          width: 28%
+        }
+      }
+    }
+
+    @media (max-width: 1169.99px) {
+      @keyframes typing {
+        from {
+          width: 0
         }
 
-        .container {
-            padding-top: 2rem;
-            position: relative;
-            top: 2rem;
+        to {
+          width: 37%
+        }
+      }
+    }
+
+    @media (max-width: 969.99px) {
+      @keyframes typing {
+        from {
+          width: 0
         }
 
-        a {
-            text-decoration: none;
+        to {
+          width: 45%
+        }
+      }
+    }
+
+    @media (max-width: 769.99px) {
+      @keyframes typing {
+        from {
+          width: 0
         }
 
-        .container h1 {
-            color: white;
-            font-size: 190%;
-            overflow: hidden;
-            border-right: .1em solid #a6a6a6;
-            white-space: nowrap;
-            margin: 0 auto;
-            letter-spacing: .15em;
-            animation: typing 3.5s steps(10, end) forwards, blink-caret .75s step-end infinite;
+        to {
+          width: 70%
+        }
+      }
+    }
+
+    @media (max-width: 469.99px) {
+      .container h1 {
+        letter-spacing: 80%;
+        font-size: 150%;
+      }
+
+      @keyframes typing {
+        from {
+          width: 0
         }
 
-        @media (min-width: 1170px) {
-            @keyframes typing {
-                from {
-                    width: 0
-                }
-
-                to {
-                    width: 28%
-                }
-            }
+        to {
+          width: 85%
         }
+      }
+    }
 
-        @media (max-width: 1169.99px) {
-            @keyframes typing {
-                from {
-                    width: 0
-                }
+    @keyframes blink-caret {
+      from {
+        border-color: transparent
+      }
 
-                to {
-                    width: 37%
-                }
-            }
-        }
+      to {
+        border-color: transparent;
+        opacity: 0;
+      }
 
-        @media (max-width: 969.99px) {
-            @keyframes typing {
-                from {
-                    width: 0
-                }
-
-                to {
-                    width: 45%
-                }
-            }
-        }
-
-        @media (max-width: 769.99px) {
-            @keyframes typing {
-                from {
-                    width: 0
-                }
-
-                to {
-                    width: 70%
-                }
-            }
-        }
-
-        @media (max-width: 469.99px) {
-            .container h1 {
-                letter-spacing: 80%;
-                font-size: 150%;
-            }
-
-            @keyframes typing {
-                from {
-                    width: 0
-                }
-
-                to {
-                    width: 85%
-                }
-            }
-        }
-
-        @keyframes blink-caret {
-            from {
-                border-color: transparent
-            }
-
-            to {
-                border-color: transparent;
-                opacity: 0;
-            }
-
-            50% {
-                border-color: white;
-            }
-        }
-    </style>
+      50% {
+        border-color: white;
+      }
+    }
+  </style>
 </head>
 
 <body>
-    <div class="container">
-        <h2>hello world,</h2>
-        <h1>We are GDSC</h1>
-        <p> @gdscamrita</p>
-        <p>
-            <a href="https://twitter.com/namratapdr" target="_blank"><img
-                    src="https://namratapdrjs.netlify.app/3d-terrain-intro/assets/twitter.svg" alt="twitter" /> </a>
-            <a href="https://github.com/namratapdr" target="_blank"><img
-                    src="https://namratapdrjs.netlify.app/3d-terrain-intro/assets/github.svg" alt="github" /> </a>
-            <a href="https://instagram.com/namratapdr" target="_blank"><img
-                    src="https://namratapdrjs.netlify.app/3d-terrain-intro/assets/instagram.svg" alt="instagram" /></a>
-        </p>
-        <!-- list of links to about announcements and blogs -->
-        <p>
-            <a href="./about.html">About</a> |
-            <a href="./announcements.html">Announcements</a> |
-            <a href="./blogs.html">Blogs</a>
-        </p>
-    </div>
+  <div class="container">
+    <h2>hello world,</h2>
+    <h1>We are GDSC</h1>
+    <p> @gdscamrita</p>
+    <p>
+      <a href="https://twitter.com/namratapdr" target="_blank"><img
+          src="https://namratapdrjs.netlify.app/3d-terrain-intro/assets/twitter.svg" alt="twitter" /> </a>
+      <a href="https://github.com/namratapdr" target="_blank"><img
+          src="https://namratapdrjs.netlify.app/3d-terrain-intro/assets/github.svg" alt="github" /> </a>
+      <a href="https://instagram.com/namratapdr" target="_blank"><img
+          src="https://namratapdrjs.netlify.app/3d-terrain-intro/assets/instagram.svg" alt="instagram" /></a>
+    </p>
+    <!-- list of links to about announcements and blogs -->
+    <p>
+      <a href="./about.html">About</a> |
+      <a href="./announcements.html">Announcements</a> |
+      <a href="./blogs.html">Blogs</a>
+    </p>
+  </div>
 
-    <script src="https://cdnjs.cloudflare.com/ajax/libs/p5.js/1.4.0/p5.js"></script>
-    <script>
-        let w = 1400;
-        let h = 1400;
-        let scale = 20;
-        let rows = (h / scale);
-        let cols = (w / scale);
-        let mountains = [];
-        let fly = 0;
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/p5.js/1.4.0/p5.js"></script>
+  <script>
+    let w = 1400;
+    let h = 1400;
+    let scale = 20;
+    let rows = h / scale;
+    let cols = w / scale;
+    let mountains = [];
+    let fly;
 
-        function setup() {
-            createCanvas(windowWidth, windowHeight, WEBGL);
-            background(0);
+    // Define the colors
+    let colors = ['#4285f4', '#ea4335', '#fbbc05', '#34a853'];
+    let colorIndex = 0;
+
+    function setup() {
+      createCanvas(windowWidth, windowHeight, WEBGL);
+      background(0);
+      fly = Math.random(0, 100);
+    }
+
+    function draw() {
+      orbitControl();
+      background(0);
+
+      // Introduce a delay for the first 100 frames (adjust as needed)
+      if (frameCount < 100) {
+        return;
+      }
+
+      fly += 0.6;
+
+      let yOff = fly;
+
+      for (let i = 0; i < rows; i++) {
+        mountains[i] = [];
+        let xOff = 0;
+        for (let j = 0; j < cols; j++) {
+          mountains[i][j] = map(noise(xOff, yOff), 0, 1, -40, 60);
+          xOff += 0.6;
         }
+        yOff += 0.6;
+      }
 
-        function draw() {
-            orbitControl();
-            background(0);
-            fly += .05;
+      rotateX(PI / 3);
+      translate(-w / 2, -h / 2);
 
-            let yOff = fly;
+      for (let i = 0; i < rows - 1; i++) {
+        beginShape(TRIANGLE_STRIP);
+        for (let j = 0; j < cols; j++) {
+          // Use the color for the current index
+          fill(color(colors[colorIndex]));
 
-            for (let i = 0; i < rows; i++) {
-                mountains[i] = [];
-                let xOff = 0;
-                for (let j = 0; j < cols; j++) {
-                    mountains[i][j] = map(noise(xOff, yOff), 0, 1, -40, 60);
-                    xOff += 0.3;
-                }
-                yOff += 0.3;
-            }
-
-            fill(166);
-
-            rotateX(PI / 3);
-            translate(-w / 2, -h / 2);
-
-            for (let i = 0; i < rows; i++) {
-                beginShape(TRIANGLE_STRIP);
-                for (let j = 0; j < cols; j++) {
-                    vertex(j * scale, i * scale, mountains[j][i]);
-                    vertex(j * scale, (i + 1) * scale, mountains[j][i]);
-                }
-                endShape();
-            }
+          vertex(j * scale, i * scale, mountains[i][j]);
+          vertex(j * scale, (i + 1) * scale, mountains[i + 1][j]);
         }
-        setInterval(setup, 0.10);
-    </script>
+        endShape();
+        // Increment the color index for the next set of triangles
+        colorIndex = (colorIndex + 1) % colors.length;
+      }
+    }
+  </script>
 </body>
 
 </html>
