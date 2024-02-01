@@ -1,19 +1,5 @@
 [
   {
-    "objectID": "about.html",
-    "href": "about.html",
-    "title": "About Me",
-    "section": "",
-    "text": "We are gdsc what we do and stuff"
-  },
-  {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "website",
-    "section": "",
-    "text": "&lt;!DOCTYPE html&gt;\n\n\n\nPage Title\n\n\n\n\n\n    &lt;h2&gt;hello world,&lt;/h2&gt;\n    &lt;h1&gt;We are GDSC&lt;/h1&gt;\n    &lt;p&gt; @namratapdr&lt;/p&gt;\n    &lt;p&gt;\n        &lt;a href=\"https://twitter.com/namratapdr\" target=\"_blank\"&gt;&lt;img src=\"https://namratapdrjs.netlify.app/3d-terrain-intro/assets/twitter.svg\" alt=\"twitter\"/&gt; &lt;/a&gt;\n        &lt;a href=\"https://github.com/namratapdr\" target=\"_blank\"&gt;&lt;img src=\"https://namratapdrjs.netlify.app/3d-terrain-intro/assets/github.svg\" alt=\"github\"/&gt; &lt;/a&gt;\n        &lt;a href=\"https://instagram.com/namratapdr\" target=\"_blank\"&gt;&lt;img src=\"https://namratapdrjs.netlify.app/3d-terrain-intro/assets/instagram.svg\" alt=\"instagram\" /&gt;&lt;/a&gt;\n    &lt;/p&gt;\n&lt;/div&gt;\n\n&lt;script&gt;\n    let w = 1400;\n    let h = 1400;\n    let scale = 20;\n    let rows = (h / scale);\n    let cols = (w / scale);\n    let mountains = [];\n    let fly = 0;\n\n    function setup() {\n        createCanvas(windowWidth, windowHeight, WEBGL);\n        background(0);\n    }\n\n    /* Add the rest of your JavaScript here */\n&lt;/script&gt;"
-  },
-  {
     "objectID": "announcements.html",
     "href": "announcements.html",
     "title": "Announcements",
@@ -28,10 +14,24 @@
     "text": "Topic 1 -&gt; Basis of Speech acoustics\n\n\n\n\n\n\n\n\n\n\n\n\nJan 6, 2024\n\n\nSiddharth D\n\n\n1 min\n\n\n\n\n\n\nNo matching items"
   },
   {
+    "objectID": "projects.html",
+    "href": "projects.html",
+    "title": "Projects",
+    "section": "",
+    "text": "No matching items"
+  },
+  {
     "objectID": "blogs/testthing/index.html",
     "href": "blogs/testthing/index.html",
     "title": "Topic 1 -> Basis of Speech acoustics",
     "section": "",
     "text": "Speech Signal\n\nThe fundamental analog form of"
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About Us",
+    "section": "",
+    "text": "We are gdsc what we do and stuff"
   }
 ]

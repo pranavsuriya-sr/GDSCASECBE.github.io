@@ -8,5 +8,9 @@
     "items": [
       "/blogs/testthing/index.html"
     ]
+  },
+  {
+    "listing": "/projects.html",
+    "items": []
   }
 ]

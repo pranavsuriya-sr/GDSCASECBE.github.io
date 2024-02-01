@@ -10,10 +10,23 @@ website:
     right:
       - href: about.qmd
         text: About
-      - href: announcement.qmd
-        text: Updates
+      - href: announcements.qmd
+        text: Announcements
       - href: projects.qmd
         text: Projects
+      - href: blogs.qmd
+        text: Blogs
+      - icon: github
+        menu:
+          - text: Source Code
+            url:  https://github.com/GDSCASECBE/GDSCASECBE.github.io
+          - text: Report a Bug
+            url:  https://github.com/GDSCASECBE/GDSCASECBE.github.io/issues
+  page-footer: 
+    center: "Copyright 2024, GDSC Amrita CBE"
+    border: False
+  reader-mode: true
+
 
 format:
   html:
