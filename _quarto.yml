@@ -4,7 +4,7 @@ project:
 
 website:
   title: GDSC Amrita School of Computing, Coimbatore
-  favicon: gdsc.png
+  favicon: images/profile.png
   twitter-card: true
   navbar:
     right:

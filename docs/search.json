@@ -11,7 +11,42 @@
     "href": "about.html",
     "title": "About Us",
     "section": "",
-    "text": "Google Developer Student Clubs are university-based community groups for students interested in Google developer technologies. Students from all undergraduate or graduate programs with an interest in growing as a developer are welcome. By joining a GDSC, students grow their knowledge in a peer-to-peer learning environment and build solutions for local businesses and their community. Every year, one lead will be selected for each university by Google Developer Groups, India. Google Developer Student Club Leads are passionate leaders at their universities who are dedicated to helping their peers learn and connect. Leads are undergraduate or graduate university students pursuing various degrees, yet have foundational knowledge of software development concepts. Google collaborates with Leads and supports them as they start and grow their on-campus communities."
+    "text": "Google Developer Student Clubs are university-based community groups for students interested in Google developer technologies. Students from all undergraduate or graduate programs with an interest in growing as a developer are welcome. By joining a GDSC, students grow their knowledge in a peer-to-peer learning environment and build solutions for local businesses and their community.\nEvery year, one lead will be selected for each university by Google Developer Groups, India. Google Developer Student Club Leads are passionate leaders at their universities who are dedicated to helping their peers learn and connect. Leads are undergraduate or graduate university students pursuing various degrees, yet have foundational knowledge of software development concepts.\nGoogle collaborates with Leads and supports them as they start and grow their on-campus communities."
+  },
+  {
+    "objectID": "about.html#web-team",
+    "href": "about.html#web-team",
+    "title": "About Us",
+    "section": "Web Team:",
+    "text": "Web Team:\nOur Web Team specializes in creating stunning, user-friendly websites and web applications. From front-end design to back-end development, our team members are proficient in a variety of web technologies and frameworks."
+  },
+  {
+    "objectID": "about.html#android-team",
+    "href": "about.html#android-team",
+    "title": "About Us",
+    "section": "Android Team:",
+    "text": "Android Team:\nThe Android Team is dedicated to building cutting-edge mobile applications for the Android platform. With expertise in Kotlin, Flutter and Java, our team members strive to create impactful apps that enhance the mobile experience."
+  },
+  {
+    "objectID": "about.html#aiml-team",
+    "href": "about.html#aiml-team",
+    "title": "About Us",
+    "section": "AI/ML Team:",
+    "text": "AI/ML Team:\nHarnessing the power of Artificial Intelligence and Machine Learning, our AI/ML Team explores innovative solutions to complex problems. From predictive analytics to natural language processing, our team members are passionate about pushing the boundaries of AI technology."
+  },
+  {
+    "objectID": "about.html#devops-team",
+    "href": "about.html#devops-team",
+    "title": "About Us",
+    "section": "DevOps Team:",
+    "text": "DevOps Team:\nThe DevOps Team focuses on streamlining the software development lifecycle through automation, collaboration, and continuous integration/continuous deployment (CI/CD) practices. Our team members are skilled in tools like Docker, Kubernetes, and Jenkins to ensure efficient and reliable software delivery."
+  },
+  {
+    "objectID": "about.html#iot-team",
+    "href": "about.html#iot-team",
+    "title": "About Us",
+    "section": "IoT Team:",
+    "text": "IoT Team:\nThe IoT Team delves into the exciting world of Internet of Things (IoT), creating interconnected devices and systems that revolutionize the way we interact with the physical world. From sensor networks to smart home automation, our team members thrive on building innovative IoT solutions."
   },
   {
     "objectID": "blogs/testthing/index.html",
@@ -25,7 +60,7 @@
     "href": "projects.html",
     "title": "Projects",
     "section": "",
-    "text": "Topic 1 -&gt; Basis of Speech acoustics\n\n\n\n\n\n\n\n\n\n\n\nJan 6, 2024\n\n\nSiddharth D\n\n\n1 min\n\n\n\n\n\n\nNo matching items"
+    "text": "GDSC project sample\n\n\n\n\n\n\n\n\n\n\n\nMar 26, 2024\n\n\nSiddharth D\n\n\n1 min\n\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "blogs.html",
