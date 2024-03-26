@@ -1,16 +1,20 @@
 [
   {
     "listing": "/announcements.html",
-    "items": []
+    "items": [
+      "/announcements/normal/announcement1.html"
+    ]
+  },
+  {
+    "listing": "/projects.html",
+    "items": [
+      "/projects/GDSCprojlist/index.html"
+    ]
   },
   {
     "listing": "/blogs.html",
     "items": [
       "/blogs/testthing/index.html"
     ]
-  },
-  {
-    "listing": "/projects.html",
-    "items": []
   }
 ]

@@ -7,3 +7,8 @@
 /about.qmd
 /blogs.qmd
 /styles.css
+/.luarc.json
+/index.qmd
+/projects.qmd
+/projects
+/projects/*

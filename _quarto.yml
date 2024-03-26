@@ -3,7 +3,7 @@ project:
   output-dir: docs
 
 website:
-  title: GDSC CBE
+  title: GDSC Amrita School of Computing, Coimbatore
   favicon: gdsc.png
   twitter-card: true
   navbar:

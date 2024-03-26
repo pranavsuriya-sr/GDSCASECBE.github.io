@@ -4,21 +4,14 @@
     "href": "announcements.html",
     "title": "Announcements",
     "section": "",
-    "text": "All the announcements will be here\n\n\n\n\n\n\n\n\n\n\nNo matching items"
+    "text": "Lauch of GDSC WEBSITE !!\n\n\n\n\n\n\n\n\n\n\n\nMar 26, 2024\n\n\n1 min\n\n\n\n\n\n\nNo matching items"
   },
   {
-    "objectID": "blogs.html",
-    "href": "blogs.html",
-    "title": "Blogs",
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About Us",
     "section": "",
-    "text": "Topic 1 -&gt; Basis of Speech acoustics\n\n\n\n\n\n\n\n\n\n\n\n\nJan 6, 2024\n\n\nSiddharth D\n\n\n1 min\n\n\n\n\n\n\nNo matching items"
-  },
-  {
-    "objectID": "projects.html",
-    "href": "projects.html",
-    "title": "Projects",
-    "section": "",
-    "text": "No matching items"
+    "text": "Google Developer Student Clubs are university-based community groups for students interested in Google developer technologies. Students from all undergraduate or graduate programs with an interest in growing as a developer are welcome. By joining a GDSC, students grow their knowledge in a peer-to-peer learning environment and build solutions for local businesses and their community. Every year, one lead will be selected for each university by Google Developer Groups, India. Google Developer Student Club Leads are passionate leaders at their universities who are dedicated to helping their peers learn and connect. Leads are undergraduate or graduate university students pursuing various degrees, yet have foundational knowledge of software development concepts. Google collaborates with Leads and supports them as they start and grow their on-campus communities."
   },
   {
     "objectID": "blogs/testthing/index.html",
@@ -28,17 +21,24 @@
     "text": "Speech Signal\n\nThe fundamental analog form of"
   },
   {
-    "objectID": "about.html",
-    "href": "about.html",
-    "title": "About Us",
+    "objectID": "projects.html",
+    "href": "projects.html",
+    "title": "Projects",
     "section": "",
-    "text": "We are gdsc what we do and stuff"
+    "text": "Topic 1 -&gt; Basis of Speech acoustics\n\n\n\n\n\n\n\n\n\n\n\nJan 6, 2024\n\n\nSiddharth D\n\n\n1 min\n\n\n\n\n\n\nNo matching items"
   },
   {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "GDSC",
+    "objectID": "blogs.html",
+    "href": "blogs.html",
+    "title": "Blogs",
     "section": "",
-    "text": "hello world,\n        We are GDSC\n         @gdscamrita\n        \n             \n             \n            \n        \n        \n        \n            About |\n            Announcements |\n            Blogs"
+    "text": "Topic 1 -&gt; Basis of Speech acoustics\n\n\n\n\n\n\n\n\n\n\n\nJan 6, 2024\n\n\nSiddharth D\n\n\n1 min\n\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "announcements/normal/announcement1.html",
+    "href": "announcements/normal/announcement1.html",
+    "title": "Lauch of GDSC WEBSITE !!",
+    "section": "",
+    "text": "We are thrilled to announce the launch of our new website! After months of hard work and dedication, we are delighted to officially announce the launch on March 26, 2024.\nWe have a wide variety of announcements and students can post their blogs and projects on the website. We will be constantly updating our content with helpful information, articles, blogs, newsletters, new projects, and student accomplishments.\nThanks for your continued support and we look forward to your feedback and suggestions!!"
   }
 ]
